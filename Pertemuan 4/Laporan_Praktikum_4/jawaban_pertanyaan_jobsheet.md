@@ -83,6 +83,7 @@ Jika diubah, tidak akan terjadi perubahan, hasilnya tetap sama.
 4.  Untuk memanggil output yang telah diinputkan di Mobil m dan Sopir s
 5.  Untuk memanggil method hitungBiayaTotal yang hasilnya akan mengeluarkan output biaya total
 6.  Hasil modifikasi :
+
     <img src="percobaan2 (2).png">
     Jadi sintaks tersebut digunakan untuk mengeluarkan output Merk Mobil
 
@@ -103,17 +104,23 @@ Jika diubah, tidak akan terjadi perubahan, hasilnya tetap sama.
 
 1. Digunakan untuk memanggil method info dari kelas Pegawai yang memiliki construktor masinis dan asisten
 2. Kode Program MainPertanyaan :
+
    <img src="percobaan3 (1).png">
 
 3. Output :
+
    <img src="percobaan3 (2).png">
    Hal ini terjadi dikarenakan pada class KeretaApi terdapat 4 dalam konstruktor yaitu nama,kelas,Pegawai masinis dan Pegawai asisten, sedangkan dalam MainPertanyaan yang dipanggil hanya 3 yaitu nama, kelas, dan pegawai masinis.
 
 4. Perbaikan :
+
    <img src="percobaan3 (4).png">
+
    <img src="percobaan3 (5).png">
+
    dengan cara menghapus Pegawai asisten dan juga pada method info <b>(yang saya beri //)</b>
    Hasil :
+
    <img src="percobaan3 (6).png">
 
 ## Pertanyaan percobaan 4
@@ -142,8 +149,11 @@ Jika diubah, tidak akan terjadi perubahan, hasilnya tetap sama.
 2. Artinya jika penumpang berisi data/tidak null, maka yang keluar adalah method info dari penumpang.info()
 3. Bertujuan agar dapat berkurang/menurun
 4. Yang terjadi adalah Budi akan menempati Kursi 1 Juga
+
    <img src="percobaan4 (1).png">
+
    <img src="percobaan4 (2).png">
 
 5. Modifikasi :
+
    <img src="percobaan4 (3).png">
