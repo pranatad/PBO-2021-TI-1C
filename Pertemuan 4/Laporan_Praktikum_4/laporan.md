@@ -1,4 +1,4 @@
-# Laporan Praktikum Pertemuan 3
+# Laporan Praktikum Pertemuan 4
 
 ### Nama : Pranata Dito Fitriyansyah
 
@@ -9,6 +9,7 @@
 Berikut adalah hasil singkat dari Tugas Jobsheet 4 Relasi Class :
 
 Berikut yaitu Diagram Class yang sudah saya rancang :
+
 <img src="tugas (1).png">
 
 Sekarang yaitu source kode, disini saya memilki 5 Class
@@ -22,7 +23,9 @@ Sekarang yaitu source kode, disini saya memilki 5 Class
 5. Naruto
 
 Dan juga Class Main, berikut adalah SS Class Main, dan disamping samping nya terdapat 5 class tersebut :
+
 <img src="tugas (2).png">
 
 Berikut hasil output :
+
 <img src="tugas (3).png">
