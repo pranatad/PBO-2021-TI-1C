@@ -85,6 +85,7 @@ Jika diubah, tidak akan terjadi perubahan, hasilnya tetap sama.
 6.  Hasil modifikasi :
 
     <img src="percobaan2 (2).png">
+
     Jadi sintaks tersebut digunakan untuk mengeluarkan output Merk Mobil
 
 ## Pertanyaan percobaan 3
