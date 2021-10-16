@@ -36,12 +36,12 @@ Di dalam Class ini terdapat 2 method yaitu bernafas dan juga makan
 
 ### > Dosen
 
-Di dalam Class ini terdapat 2 method yaitu makan dan lembur
+Di dalam Class ini terdapat 2 method yaitu makan dan lembur, dan Class Dosen meng-extends Class Manusia yang berarti Class Dosen juga bisa menggunakan method dari Class Manusia
 <img src="tugas2 (2).png">
 
 ### > Mahasiswa
 
-Di dalam Class ini terdapat 2 method yaitu makan dan tidur
+Di dalam Class ini terdapat 2 method yaitu makan dan tidur, dan Class Mahasiswa juga meng-extends Class Manusia yang berarti Class Mahasiswa juga bisa menggunakan method dari Class Manusia
 <img src="tugas2 (3).png">
 
 ### > Utama(Main)
