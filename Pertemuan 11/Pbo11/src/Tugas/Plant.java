@@ -20,6 +20,7 @@ public class Plant {
             jz.destroyed();
         } else if (d instanceof Barrier) {
             Barrier b = (Barrier) d;
+            b.setStrength(64);
             b.getBarrierInfo();
             
         }

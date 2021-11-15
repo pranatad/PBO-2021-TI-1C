@@ -18,7 +18,7 @@ public class Barrier implements Destroyable {
     }
 
     public int getStrength() {
-        return strength - 36;
+        return strength;
     }
 
     public void setStrength(int strength) {
